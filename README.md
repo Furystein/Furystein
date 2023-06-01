@@ -22,6 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L-Henrique&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Henrique&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L-Henrique&bg_color=000000&color=ffffff&line=8632bd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 [![](https://visitcount.itsvg.in/api?id=L-Henrique&icon=0&color=0)](https://visitcount.itsvg.in)
 
