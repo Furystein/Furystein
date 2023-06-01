@@ -8,6 +8,7 @@
 <div align="center"> 
 
 ## 🌐 Socials:
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5547999257301)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/47éoDDD#6972) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lhenrique47)<div align="center">  
 
 # 💻 Tech Stack:
