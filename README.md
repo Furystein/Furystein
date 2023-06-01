@@ -1,6 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-<div align="center">
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Luis+Henrique;I'm+25+years+old;I'm+from+Brazil;I+Study+programming+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 # 💫 About Me
 
 
@@ -24,6 +24,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L-Henrique&bg_color=000000&color=ffffff&line=8632bd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-[![](https://visitcount.itsvg.in/api?id=L-Henrique&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{L-Henrique}/count.svg" /></p> 
+<br>
+</div>
 
 [def]: https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
